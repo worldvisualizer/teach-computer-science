@@ -12,16 +12,21 @@ all things when I teach how to code
 
 - MacOSX Monterey 12.3 or higher
 - VSCode with Java plugin
+    - [Extension Troubleshooting](https://github.com/Microsoft/vscode-java-debug/blob/main/Troubleshooting.md)
 
-### Install VSCode
+### Installation
 
-[ ] Download VSCode https://code.visualstudio.com/docs/?dv=osx
-[ ] Go to Extensions and search "Extension Pack for Java"
-    - [ ] Install OpenJDK 17
-    - [ ]  
-[ ] 
+- Clone repository
+```{sh}
+git clone https://github.com/worldvisualizer/teach-computer-science.git
+```
+- Download VSCode https://code.visualstudio.com/docs/?dv=osx
+- Go to Extensions and search "Extension Pack for Java"
+    - Install OpenJDK 17
+- Run and Debug example/HelloWorld.java 
 
 ## Course Goal
+
 
 
 
