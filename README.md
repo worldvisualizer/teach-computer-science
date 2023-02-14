@@ -4,8 +4,8 @@
 
 - [Coure Information](https://apstudents.collegeboard.org/courses/ap-computer-science-a)
     - [AP Computer Science Java Subset](https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-computer-science-a-java-subset.pdf)
-    - [AP Computer Science Java Quick Reference)(https://apstudents.collegeboard.org/ap/2019-05/ap-computer-science-a-2014-java-quick-reference.pdf)
-- [Exam Information](https://apstudents.collegeboard.org/courses/ap-computer-science-a/assessment)
+    - [AP Computer Science Java Quick Reference](https://apstudents.collegeboard.org/ap/2019-05/ap-computer-science-a-2014-java-quick-reference.pdf)
+- [Exam Information - General](https://apstudents.collegeboard.org/courses/ap-computer-science-a/assessment)
     - [2021 Free-Response Questions](https://apcentral.collegeboard.org/media/pdf/ap21-frq-computer-science-a.pdf)
 
 
