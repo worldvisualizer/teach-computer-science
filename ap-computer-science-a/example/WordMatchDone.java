@@ -1,13 +1,13 @@
 // import java.lang.Math;
 
 // class - always public 
-public class WordMatch {
+public class WordMatchDone {
     // instance variable - always private
     // different from class variable
     private String secret;
 
     // constructor - always public
-    public WordMatch(String word) {
+    public WordMatchDone(String word) {
         // this: refers to current object
         this.secret = word;
     }
@@ -64,7 +64,7 @@ public class WordMatch {
     }
 
     public static void runTestPartA(String secret, String[] guesses) {
-        WordMatch wm = new WordMatch(secret);
+        WordMatchDone wm = new WordMatchDone(secret);
         for (String guess : guesses) {
             int score = wm.scoreGuess(guess);
             System.out.println(
@@ -79,7 +79,7 @@ public class WordMatch {
     public static void runTestPartB(
         String secret, String guess1, String guess2
     ) {
-        WordMatch wm = new WordMatch(secret);
+        WordMatchDone wm = new WordMatchDone(secret);
         String better = wm.findBetterGuess(guess1, guess2);
         System.out.println(
             String.format(
